@@ -68,3 +68,8 @@
 </p>
 
 
+
+<h2 align="center">📈 GitHub Contribution Grid</h2>
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid" style="max-width: 100%;" />
+</p>
