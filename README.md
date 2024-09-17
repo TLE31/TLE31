@@ -7,7 +7,7 @@
 <h2 align="center">🚀 About Me</h2>
 <h3 align="center">💻 I’m a passionate competitive programmer and MERN stack developer with a knack for solving complex problems.</h3>
 <h3 align="center">✨ With a strong background in computer science, I thrive on tackling intricate data structures and algorithms. I love creating innovative solutions and exploring new technologies.</h3>
-
+<br>
 <h2 align="center">🌟 Skills & Technologies</h2>
 <br>
 <p align="center">
