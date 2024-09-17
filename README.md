@@ -56,20 +56,18 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tle31&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tle31&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tle31&show_icons=true&locale=en" alt="GitHub Stats" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tle31&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tle31&" alt="Streak Stats" style="width: 100%;" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tle31&" alt="Streak Stats" />
-</p>
-
-
+>
 
 <h2 align="center">📈 GitHub Contribution Grid</h2>
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid" style="max-width: 100%;" />
 </p>
+
