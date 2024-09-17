@@ -1,14 +1,14 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hii,+There!+👋;Priyanshu+Tiwari+Here....;Nice+to+meet+you+all!!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Priyanshu+Tiwari;Welcome+to+My+Profile!&center=true&size=30">
   </a>
 </h1>
 
 <h2 align="center">🚀 About Me</h2>
-<h3 align="center">💻 I'm a passionate competitive programmer and MERN stack developer.</h3>
-<h3 align="center">✨ With a solid background in computer science, I enjoy exploring complex data structures and algorithms.</h3>
+<h3 align="center">💻 I’m a passionate competitive programmer and MERN stack developer with a knack for solving complex problems.</h3>
+<h3 align="center">✨ With a strong background in computer science, I thrive on tackling intricate data structures and algorithms. I love creating innovative solutions and exploring new technologies.</h3>
 
-<h2 align="center">Languages and Tools:</h2>
+<h2 align="center">🌟 Skills & Technologies</h2>
 <p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
@@ -54,14 +54,17 @@
   </a>
 </p>
 
+<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tle31&show_icons=true&locale=en&layout=compact" alt="tle31" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tle31&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tle31&show_icons=true&locale=en" alt="tle31" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tle31&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tle31&" alt="tle31" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tle31&" alt="Streak Stats" />
 </p>
+
+
