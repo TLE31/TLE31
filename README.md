@@ -64,16 +64,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tle31&" alt="Streak Stats" width="100%" />
 </p>
 
-<h2 align="center">🌟 Achievements</h2>
-<p align="center">
-  🌟 **Top 1%** in global coding competitions<br>
-  🌟 **Finalist** in CODEFT-4.0, a national coding competition<br>
-  🌟 **Qualified** for round 1 in Embedded Security CTF 2022 (DSCI - IIT-MADRAS)
-</p>
 
 <h2 align="center">📈 GitHub Contribution Grid</h2>
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid" style="max-width: 100%;" />
 </p>
-
 
