@@ -1,4 +1,8 @@
-<h1>Hi 👋, I'm Priyanshu Tiwari</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hii,+There!+👋 Priyanshu+Tiwari+Here....;Feels+good+to+meet+you!!&center=true&size=30">
+  </a>
+</h1>
 <h2>🚀 About Me</h2>
 <h3 >💻 I'm a passionate competitive programmer and MERN stack developer.  </h3>
 <h3 >✨ With a solid background in computer science, I enjoy exploring complex data structures and algorithms . </h3>
