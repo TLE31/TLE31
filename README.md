@@ -9,6 +9,7 @@
 <h3 align="center">✨ With a strong background in computer science, I thrive on tackling intricate data structures and algorithms. I love creating innovative solutions and exploring new technologies.</h3>
 
 <h2 align="center">🌟 Skills & Technologies</h2>
+<br>
 <p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
@@ -53,7 +54,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
   </a>
 </p>
-
+<br>
+<p>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
 <p align=center>
   <div align=center>
     <a href="https://github.com/TLE31" title="Go to Source">
